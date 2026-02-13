@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/person-hierarchy/static/css/main.a5ff4679.css",
+    "main.js": "/person-hierarchy/static/js/main.72cdf8ed.js",
+    "index.html": "/person-hierarchy/index.html",
+    "main.a5ff4679.css.map": "/person-hierarchy/static/css/main.a5ff4679.css.map",
+    "main.72cdf8ed.js.map": "/person-hierarchy/static/js/main.72cdf8ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5ff4679.css",
+    "static/js/main.72cdf8ed.js"
+  ]
+}
